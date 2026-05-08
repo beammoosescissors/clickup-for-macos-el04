@@ -1,4 +1,4 @@
-
+instant Addon for ClickUp for macOS - quick search and dark mode offers the most advanced ClickUp for macOS addon, with quick search and dark mode. Ideal for professionals.
 
 
 
